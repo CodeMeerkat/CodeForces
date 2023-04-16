@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * See <a href="http://codeforces.com/problemset/problem/4/A">Watermelon</a>
+ * See <a href="https://codeforces.com/problemset/problem/4/A">Watermelon</a>
  * @author codemeerkat
  */
 

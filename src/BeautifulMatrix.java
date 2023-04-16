@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * See <a href="http://codeforces.com/problemset/problem/263/A">BeautifulMatrix</a>
+ * See <a href="https://codeforces.com/problemset/problem/263/A">BeautifulMatrix</a>
  * @author codemeerkat
  */
 

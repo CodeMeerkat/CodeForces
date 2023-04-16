@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * See <a href="http://codeforces.com/problemset/problem/50/A">DominoPiling</a>
+ * See <a href="https://codeforces.com/problemset/problem/50/A">DominoPiling</a>
  * @author codemeerkat
  */
 
