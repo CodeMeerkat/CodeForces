@@ -31,7 +31,7 @@ public class IWannaBeTheGuy {
 		// user Y
 		userYCount = scanner.nextInt();
 		
-		for (int i = 0; i < userXCount; i++) {
+		for (int i = 0; i < userYCount; i++) {
 			levelList = removeClearableLv(levelList, scanner);
 		}
 		
